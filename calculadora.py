@@ -13,3 +13,5 @@ mul= num1*num2
 
 print("La suma de los numeros es: ", sum)
 print("La resta de los numeros es: ", res)
+print("La divicon de los numeros es: ", div)
+print("La multiplicacion de los numeros es: ", mul)
